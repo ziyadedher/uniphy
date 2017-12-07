@@ -5,7 +5,7 @@ Universal physics, made with great intentions but horrible executions.
 
 
 ### Requirements
-  * `python >= 3.5`
+  * `python >= 3.6`
   * `pip3`
   * `arcade`
 
