@@ -6,4 +6,4 @@ python:
 install:
   - pip install -r requirements
 script:
-  - pytest-3
+  - pytest
