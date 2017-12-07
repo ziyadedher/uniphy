@@ -11,35 +11,23 @@ Universal physics, made with great intentions but horrible executions.
 
 
 ### Direct Use
-Clone this repository by going to the directory you want to clone to and running  
-`git clone git@github.com:ziyadedher/uniphy.git`.
-
-Change into the main `uniphy` directory by running `cd uniphy`.
-
-Install all dependencies by running `pip3 install requirements` in the main `uniphy` directory.
-
-Run `uniphy.py` using the required version of Python.
-
-Instructions will be displayed by the program from there on.
+  * Clone this repository by going to the directory you want to clone to and running `git clone git@github.com:ziyadedher/uniphy.git`.
+  * Change into the main `uniphy` directory by running `cd uniphy`.
+  * Install all dependencies by running `pip3 install requirements` in the main `uniphy` directory.
+  * Run `uniphy.py` using the required version of Python.
+  * Instructions will be displayed by the program from there on.
 
 
 ### Contributing
-Fork this repository on GitHub.
-
-Clone this repository by going to the directory you want to clone to and running  
-`git clone git@github.com:<your username>/uniphy.git`.
-
-Change into the main `uniphy` directory by running `cd uniphy`.
-
-Install all dependencies by running `pip3 install requirements` in the main `uniphy` directory.
-
-Install `pytest` by running `sudo apt install python-pytest` on Ubuntu machines.
-
-Make the desired changes.
-
-Run tests by running `pytest` in the main `uniphy` directory.
-
-If everything passes submit a pull request back to this repository.
+  * Fork this repository on GitHub.
+  * Clone this repository by going to the directory you want to clone to and running `git clone git@github.com:<your username>/uniphy.git`.
+  * Change into the main `uniphy` directory by running `cd uniphy`.
+  * Install all dependencies by running `pip3 install requirements` in the main `uniphy` directory.
+  * Install `pytest` by running `sudo apt install python-pytest` on Ubuntu machines.
+  * Make the desired changes.
+  * Write the required tests if necessary.
+  * Run all tests by running `pytest` in the main `uniphy` directory.
+  * If everything passes submit a pull request back to this repository.
 
 
 ### License
