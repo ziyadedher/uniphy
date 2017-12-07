@@ -1,4 +1,6 @@
 # UniPhy
+[![Build Status](https://travis-ci.org/ziyadedher/uniphy.svg?branch=master)](https://travis-ci.org/ziyadedher/uniphy)
+
 Universal physics, made with great intentions but horrible executions.
 
 
@@ -8,7 +10,8 @@ Universal physics, made with great intentions but horrible executions.
 
 
 ### Direct Use
-Clone this repository by going to the directory you want to clone to and running `git clone git@github.com:ziyadedher/uniphy.git`.
+Clone this repository by going to the directory you want to clone to and running  
+`git clone git@github.com:ziyadedher/uniphy.git`.
 
 Change into the main `uniphy` directory by running `cd uniphy`.
 
