@@ -110,7 +110,7 @@ class ObjectDrawer:
     _objects: List[physics.PhysicalObject]
 
     def __init__(self) -> None:
-        """Initializes this drawer.
+        """Initialize this drawer.
         """
         self._objects = []
 
@@ -126,8 +126,14 @@ class ObjectDrawer:
         # TODO: implement
         pass
 
-    def draw(self) -> None:
-        """Draws all objects.
+    def draw_registered(self) -> None:
+        """Draw all objects.
+        """
+        # TODO: implement
+        pass
+
+    def draw_object(self) -> None:
+        """Draw the given physics object.
         """
         # TODO: implement
         pass
