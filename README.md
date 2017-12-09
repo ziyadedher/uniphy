@@ -11,9 +11,9 @@ Universal physics, made with great intentions but horrible executions.
 
 
 ### Direct Use
-  * Clone this repository by going to the directory you want to clone to and running `git clone git@github.com:ziyadedher/uniphy.git`.
+  * Clone this repository by going to the directory you want to clone to and running `git clone https://github.com/ziyadehder/uniphy`.
   * Change into the main `uniphy` directory by running `cd uniphy`.
-  * Install all dependencies by running `pip3 install requirements` in the main `uniphy` directory.
+  * Install all dependencies by running `pip3 install -r requirements` in the main `uniphy` directory.
   * Run `uniphy.py` using the required version of Python.
   * Instructions will be displayed by the program from there on.
 
